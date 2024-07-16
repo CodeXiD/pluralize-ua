@@ -1,6 +1,14 @@
 # pluralize-ua
 Formation of plurals for the Ukrainian language
 
+<p align="center">
+    <img src="https://img.shields.io/github/license/codexid/pluralize-ua?style=flat-square" />
+    <img alt="npm" src="https://img.shields.io/npm/dm/pluralize-ua?style=flat-square">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/codexid/pluralize-ua?style=flat-square">
+    <img alt="npm" src="https://img.shields.io/npm/v/pluralize-ua?style=flat-square">
+</p>
+
+
 ## 📦 Installation
 ### yarn
 `yarn add pluralize-ua`
