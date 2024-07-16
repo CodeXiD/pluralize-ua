@@ -10,5 +10,9 @@ Formation of plurals for the Ukrainian language
 
 ## 🔧 Simple usage
 ```js
-// Coming soon...
+import {pluralizeWord} from "pluralize-ua";
+
+console.log(pluralizeWord(1, 'яблуко', 'яблука', 'яблук')) // 1 яблуко
+console.log(pluralizeWord(2, 'яблуко', 'яблука', 'яблук')) // 2 яблука
+console.log(pluralizeWord(10, 'яблуко', 'яблука', 'яблук')) // 10 яблук
 ```
