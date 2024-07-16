@@ -1,0 +1,40 @@
+{
+  "name": "pluralize-ua",
+  "description": "Formation of plurals for the Ukrainian language",
+  "private": false,
+  "version": "0.0.1",
+  "author": "Tkachenko Kirill <tkachenko.kirill.dev@gmail.com>",
+  "type": "module",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "pluralize",
+    "ua",
+    "Ukrainian",
+    "Formation",
+    "plurals",
+    "pluralization"
+  ],
+  "main": "./dist/pluralize-ua.umd.cjs",
+  "module": "./dist/pluralize-ua.js",
+  "types": "./index.d.ts",
+  "exports": {
+    "types": "./index.d.ts",
+    "import": "./dist/pluralize-ua.js",
+    "require": "./dist/pluralize-ua.umd.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeXiD/pluralize-ua.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.2.10"
+  }
+}
