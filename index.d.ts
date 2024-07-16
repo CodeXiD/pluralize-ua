@@ -1,1 +1,1 @@
-export function setupCounter(element: HTMLButtonElement): void
+export function pluralizeWord(number: number, one: string, few: string, many: string): string
