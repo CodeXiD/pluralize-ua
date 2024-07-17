@@ -2,7 +2,7 @@
   "name": "pluralize-ua",
   "description": "Formation of plurals for the Ukrainian language",
   "private": false,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Tkachenko Kirill <tkachenko.kirill.dev@gmail.com>",
   "type": "module",
   "license": "MIT",
